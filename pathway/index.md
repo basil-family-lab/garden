@@ -32,6 +32,7 @@ description: 🥋☯️⚡
 * [6.5 Kyu - Blue Level](./kyu-6.5)
 * [6th Kyu - Blue Level with One Stripe](./kyu-6)
 * [5.5 Kyu - Blue Level with Two Stripes](./kyu-5.5)
+* [5th Kyu - Blue Level with Three Stripes](./kyu-5)
 
 ## Demonstrations
 
@@ -45,7 +46,6 @@ description: 🥋☯️⚡
 
 * [Star Wars, George Lucas, Aikido, Ki and The Force](https://aikidoforbeginners.blogspot.com/2010/02/star-wars-george-lucas-aikido-ki-and.html)
 * [Belt Testing](https://aikido-dojo.org/the-dojo/test-requirements/)
-* [Chushinkan Dojo - Video Demonstrations](http://www.chushinkan.com/video.html)
 * [Aikido of Northwest Kansas - Video Demonstrations](https://www.youtube.com/@aikidoofnorthwestkansas6804)
 * [AikiWeb - The Source for Aikido Information](http://www.aikiweb.com/)
 * [Aikido and the Dynamic Sphere](https://www.amazon.com/gp/product/0804832846/ref=ppx_yo_dt_b_search_asin_title)
